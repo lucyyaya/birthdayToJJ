@@ -52,19 +52,21 @@ li {
                 left: 40%;
                 width: 3.75em;
                 height: 3.75em;
-                -webkit-animation-duration: 10s;
-                animation-duration: 10s;
+                -webkit-animation-duration: 5s;
+                animation-duration: 5s;
                 background-color: rgba(238,156,167,.13);
             }
             &:nth-child(5){
                 left: 50%;
+                -webkit-animation-duration: 10s;
+                animation-duration: 10s;
             }
             &:nth-child(6){
                 left: 70%;
                 width: 5em;
                 height: 5em;
-                -webkit-animation-duration: 15s;
-                animation-duration: 15s;
+                -webkit-animation-duration: 12s;
+                animation-duration: 12s;
             }
             &:nth-child(7){
                 left: 35%;
@@ -76,8 +78,8 @@ li {
                 width: 7.5em;
                 height: 7.5em;
                 background-color: rgba(238,156,167,.3);
-                -webkit-animation-duration: 10s;
-                animation-duration: 10s;
+                -webkit-animation-duration: 8s;
+                animation-duration: 8s;
             }
             &:nth-child(9){
                 left: 25%;

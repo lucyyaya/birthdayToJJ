@@ -1,9 +1,7 @@
 <template>
     <div class="style-container">
         <el-row>
-            <el-col :span=24>
-                <a href="#">login</a>
-            </el-col>
+            <el-col :span=24></el-col>
         </el-row>
         <el-row>
             <el-col :span=24>
