@@ -105,8 +105,8 @@ li {
 
 @-webkit-keyframes square{
     0%{
-        -webkit-transform: translateY(43.75em);
-        transform: translateY(43.75em);
+        -webkit-transform: translateY(38em);
+        transform: translateY(38em);
     }
     100%{
         -webkit-transform: translateY(-6.25em) rotate(600deg);
@@ -116,8 +116,8 @@ li {
 
 @keyframes square{
     0%{
-        -webkit-transform: translateY(43.75em);
-        transform: translateY(43.75em);
+        -webkit-transform: translateY(38em);
+        transform: translateY(38em);
     }
     100%{
         -webkit-transform: translateY(-6.25em) rotate(600deg);

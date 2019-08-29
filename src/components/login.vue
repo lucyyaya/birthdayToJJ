@@ -1,7 +1,9 @@
 <template>
     <div class="style-container">
         <el-row>
-            <el-col :span=24></el-col>
+            <el-col :span=8>
+                <el-image :src="require('@/assets/cake.png')" ></el-image>
+            </el-col>
         </el-row>
         <el-row>
             <el-col :span=24>
@@ -24,7 +26,11 @@
 
 <script>
 export default {
-    
+    data(){
+        return {
+            url:'src/assets/cake.png'
+        }
+    }
 }
 </script>
 

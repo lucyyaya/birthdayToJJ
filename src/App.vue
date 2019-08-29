@@ -14,9 +14,6 @@ export default {
 body {
   height: 100%;
   background-color: rgba(238,156,167,.5);
-  /* background-image: url('assets/ballon.jpg') ; */
-  /* background-repeat: no-repeat; */
-  /* background-position: center ; */
   font-size: 1em;
 }
 html {
